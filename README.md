@@ -4,7 +4,10 @@
 
 - Undergraduate student major in ECE [@UMJI-SJTU](https://www.ji.sjtu.edu.cn/)
 
-![Languages used](https://img.shields.io/badge/Languages-C%20/%20C++%20/%20Python%20/%20Go-blue.svg) ![Study](https://img.shields.io/badge/Grade-Junior-orange.svg)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeCatsLoveFish&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeCatsLoveFish&hide=html&layout=compact&theme=radical)
+
 
 Here are some social network links:
 
