@@ -2,7 +2,7 @@
 
 #### This is [:cat2::cat2::cat2:](https://github.com/ThreeCatsLoveFish "ThreeCats")
 
-- Undergraduate student major in ECE [@UMJI-SJTU](https://www.ji.sjtu.edu.cn/)
+- Rising Graduate student major in CS [@CS-SJTU](https://www.cs.sjtu.edu.cn/)
 - Backend Develop Intern [@ByteDance](https://bytedance.com/)
 
 
