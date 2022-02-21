@@ -7,12 +7,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeCatsLoveFish&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeCatsLoveFish&hide=html&layout=compact&theme=radical)
+![Most used languages](https://github-readme-stats.vercel.app/api/wakatime?username=ThreeCats&layout=compact&theme=dark)
 
-
-Here are some social network links:
-
-- Bilibili [:tv:](https://space.bilibili.com/12309253)
-- Leetcode [:cat:](https://leetcode-cn.com/u/threecats/)
-
-Follow me and discover some interesting things!
+Follow me and discover more interesting things!
