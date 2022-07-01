@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Rust-0b7261?style=flat-square&logo=rust&logoColor=fff)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-C/C++-c8c9ee?style=flat-square&logo=c&logoColor=fff)](https://www.cplusplus.com/)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=fff)](https://www.java.com/zh-CN/)
 [![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=fff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Pytorch-ea4a2c?style=flat-square&logo=pytorch&logoColor=fff)](https://pytorch.org/)
 
