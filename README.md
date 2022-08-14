@@ -6,8 +6,7 @@
 
 ### About me
 
-- Undergraduate student major in ECE [@UMJI-SJTU](https://www.ji.sjtu.edu.cn/)
-- Intern in [DMCV](https://dmcv.sjtu.edu.cn/)
+- Master student major in CS [@DMCV](https://dmcv.sjtu.edu.cn/)
 
 ### Platform & Tools
 
