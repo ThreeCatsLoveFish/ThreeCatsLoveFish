@@ -7,7 +7,8 @@
 ### About me
 
 - Master student major in CS [@DMCV](https://dmcv.sjtu.edu.cn/)
-- Research on Deepfakes & Open-world Semi-supervised Learning
+- Research on Controllable Text-To-Image & Text-To-Video
+- Research on Open-World DeepFake Attribution [@YouTu](https://github.com/TencentYoutuResearch)
 
 ### Platform & Tools
 
