@@ -7,7 +7,7 @@
 ### About me
 
 - AI Engineer [@Tencent AMS](https://e.qq.com/ads)
-- Master of Computer Science [@DMCV]([https://dmcv.sjtu.edu.cn/](https://e.qq.com/ads))
+- Master of Computer Science [@DMCV](https://dmcv.sjtu.edu.cn/)
 - Research on Controllable Text-To-Image & Text-To-Video
 - Research on Open-World DeepFake Attribution [@YouTu](https://github.com/TencentYoutuResearch)
 
