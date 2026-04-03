@@ -6,9 +6,9 @@
 
 ### About me
 
-- AI Engineer [@Tencent AMS](https://e.qq.com/ads)
+- AI Engineer [@ByteDance](https://www.bytedance.com/)
 - Master of Computer Science [@DMCV](https://dmcv.sjtu.edu.cn/)
-- Research on Controllable Text-To-Image & Text-To-Video
+- Research on Controllable Text-To-Image [@Tencent AMS](https://e.qq.com/ads)
 - Research on Open-World DeepFake Attribution [@YouTu](https://github.com/TencentYoutuResearch)
 
 ### Platform & Tools
@@ -22,7 +22,5 @@
 [![](https://img.shields.io/badge/-C/C++-c8c9ee?style=flat-square&logo=c&logoColor=fff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=fff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Pytorch-ea4a2c?style=flat-square&logo=pytorch&logoColor=fff)](https://pytorch.org/)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeCatsLoveFish&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 Follow me and discover more interesting things!
